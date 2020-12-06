@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Shelter</title>
+    <link>https://chunkasgore.github.io/blog/</link>
+    <description>Recent content in Blogs on Shelter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chunkasgore.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>须知</title>
+      <link>https://chunkasgore.github.io/blog/first-notice/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chunkasgore.github.io/blog/first-notice/</guid>
+      <description>嗨，我是ChunkAsgore。我的避难所自现在起便开业了。
+本站使用Github Pages和Hugo搭建。无需备案，简单快捷。
+今后我会在这里撰写一些心得，希望能够获得支持，下周见。</description>
+    </item>
+    
+  </channel>
+</rss>
